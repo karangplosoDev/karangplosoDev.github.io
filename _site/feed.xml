@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">DK Karangploso</title>
+<generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="/feed.xml" />
+<link rel="alternate" type="text/html" href="" />
+<updated>2016-04-10T18:52:54+07:00</updated>
+<id>/</id>
+<author>
+  <name>Developer Karplos</name>
+  <uri>/</uri>
+  <email>devkarplos@gmail.com</email>
+</author>
+
+
+<entry>
+  <title type="html"><![CDATA[keprihatinan akan sekitar]]></title>
+  <link rel="alternate" type="text/html" href="/Keprihatinan/" />
+  <id>/Keprihatinan</id>
+  <published>2016-04-10T00:00:00+07:00</published>
+  <updated>2016-04-10T00:00:00+07:00</updated>
+  <author>
+    <name>Developer Karplos</name>
+    <uri></uri>
+    <email>devkarplos@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;Kondisi lingkungan yang begini begini saja pemuda pemudinya makin gandrung akan warung kopi membuat tak produktif dan menjadikan image buruk akan sebuah daerah&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;/Keprihatinan/&quot;&gt;keprihatinan akan sekitar&lt;/a&gt; was originally published by Developer Karplos at &lt;a href=&quot;&quot;&gt;DK Karangploso&lt;/a&gt; on April 10, 2016.&lt;/p&gt;
+  </content>
+</entry>
+
+</feed>
